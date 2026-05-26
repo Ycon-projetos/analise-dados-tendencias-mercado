@@ -1,0 +1,301 @@
+id_transacao,setor_mercado,bairro_sorocaba,valor_venda,dia_semana,canal_compra
+1,Automotivo,Santa Rosália,1142.10,Sábado,E-commerce
+2,Construcao,Campolim,2093.52,Sábado,Presencial
+3,Varejo_Alimentar,Cerrado,103.98,Sexta-Feira,Presencial
+4,Varejo_Alimentar,General Carneiro,99.64,Sábado,E-commerce
+5,Vestuario,General Carneiro,302.51,Sexta-Feira,Presencial
+6,Varejo_Alimentar,Cerrado,147.71,Domingo,Presencial
+7,Vestuario,Centro,246.85,Sexta-Feira,E-commerce
+8,Vestuario,Trujillo,267.52,Segunda-Feira,Presencial
+9,Automotivo,General Carneiro,851.98,Sexta-Feira,Presencial
+10,Vestuario,Vila Helena,342.81,Sábado,Presencial
+11,Construcao,Trujillo,2190.46,Sexta-Feira,E-commerce
+12,Vestuario,Vila Hortência,70.51,Sábado,Presencial
+13,Automotivo,General Carneiro,161.19,Quarta-Feira,E-commerce
+14,Construcao,General Carneiro,514.20,Quarta-Feira,Presencial
+15,Automotivo,Campolim,802.39,Sábado,Presencial
+16,Vestuario,Santa Rosália,226.33,Sexta-Feira,E-commerce
+17,Automotivo,Centro,951.94,Terça-Feira,Presencial
+18,Varejo_Alimentar,General Carneiro,100.56,Sexta-Feira,Presencial
+19,Varejo_Alimentar,Éden,51.68,Sexta-Feira,Presencial
+20,Varejo_Alimentar,Éden,94.59,Terça-Feira,Presencial
+21,Automotivo,Centro,599.93,Segunda-Feira,Presencial
+22,Construcao,Centro,974.71,Sábado,Presencial
+23,Vestuario,Campolim,291.19,Sábado,E-commerce
+24,Automotivo,Vila Helena,86.71,Sábado,E-commerce
+25,Automotivo,Wanel Ville,1060.51,Quinta-Feira,Presencial
+26,Construcao,Cerrado,263.97,Sábado,Presencial
+27,Varejo_Alimentar,Vila Helena,72.18,Sábado,Presencial
+28,Automotivo,Santa Rosália,994.76,Sábado,Presencial
+29,Vestuario,Campolim,321.48,Sexta-Feira,Presencial
+30,Vestuario,Centro,108.73,Sexta-Feira,E-commerce
+31,Automotivo,General Carneiro,619.20,Sexta-Feira,Presencial
+32,Automotivo,Vila Hortência,423.10,Sábado,Presencial
+33,Automotivo,Cerrado,408.69,Sábado,Presencial
+34,Varejo_Alimentar,Centro,102.89,Sexta-Feira,Presencial
+35,Vestuario,Vila Helena,171.48,Sábado,Presencial
+36,Varejo_Alimentar,Vila Helena,99.80,Sábado,Presencial
+37,Automotivo,Vila Hortência,931.98,Sábado,Presencial
+38,Automotivo,Trujillo,181.24,Sexta-Feira,E-commerce
+39,Vestuario,Vila Helena,226.64,Quarta-Feira,E-commerce
+40,Construcao,Santa Rosália,562.91,Sábado,Presencial
+41,Construcao,Vila Hortência,1846.08,Sexta-Feira,Presencial
+42,Automotivo,Wanel Ville,651.86,Domingo,Presencial
+43,Automotivo,Wanel Ville,180.35,Terça-Feira,E-commerce
+44,Varejo_Alimentar,Campolim,62.27,Terça-Feira,Presencial
+45,Varejo_Alimentar,Wanel Ville,19.90,Sábado,Presencial
+46,Construcao,Santa Rosália,1036.77,Quarta-Feira,E-commerce
+47,Construcao,General Carneiro,1614.29,Sexta-Feira,Presencial
+48,Varejo_Alimentar,Vila Hortência,42.51,Sexta-Feira,E-commerce
+49,Varejo_Alimentar,Vila Helena,178.29,Sábado,Presencial
+50,Automotivo,Vila Hortência,897.54,Sexta-Feira,E-commerce
+51,Vestuario,Centro,107.44,Sábado,E-commerce
+52,Varejo_Alimentar,Campolim,49.90,Sábado,Presencial
+53,Vestuario,Vila Helena,156.08,Sexta-Feira,Presencial
+54,Vestuario,Centro,333.24,Segunda-Feira,Presencial
+55,Automotivo,Vila Hortência,885.78,Domingo,E-commerce
+56,Construcao,Vila Helena,1336.21,Sexta-Feira,E-commerce
+57,Construcao,Wanel Ville,1723.26,Domingo,Presencial
+58,Vestuario,Trujillo,64.98,Quinta-Feira,Presencial
+59,Vestuario,Santa Rosália,100.46,Sexta-Feira,E-commerce
+60,Automotivo,General Carneiro,192.05,Sábado,Presencial
+61,Vestuario,Vila Helena,55.56,Sexta-Feira,Presencial
+62,Vestuario,Centro,104.70,Sábado,Presencial
+63,Automotivo,Vila Helena,1091.19,Sexta-Feira,E-commerce
+64,Automotivo,Éden,1025.59,Sexta-Feira,Presencial
+65,Vestuario,Éden,190.40,Domingo,Presencial
+66,Automotivo,Vila Hortência,476.57,Segunda-Feira,Presencial
+67,Vestuario,General Carneiro,47.77,Sexta-Feira,Presencial
+68,Construcao,Vila Helena,1989.73,Sábado,Presencial
+69,Construcao,Campolim,1121.49,Domingo,Presencial
+70,Construcao,Santa Rosália,1078.30,Sábado,E-commerce
+71,Varejo_Alimentar,Wanel Ville,73.11,Sábado,Presencial
+72,Automotivo,General Carneiro,771.67,Sábado,E-commerce
+73,Varejo_Alimentar,Campolim,78.10,Segunda-Feira,Presencial
+74,Varejo_Alimentar,Santa Rosália,59.49,Sexta-Feira,Presencial
+75,Varejo_Alimentar,Vila Hortência,160.49,Sábado,Presencial
+76,Varejo_Alimentar,Wanel Ville,48.78,Sexta-Feira,E-commerce
+77,Construcao,Centro,1263.40,Quarta-Feira,Presencial
+78,Varejo_Alimentar,Santa Rosália,121.71,Sexta-Feira,E-commerce
+79,Varejo_Alimentar,Trujillo,76.59,Sábado,E-commerce
+80,Automotivo,General Carneiro,428.78,Sábado,Presencial
+81,Varejo_Alimentar,Campolim,159.84,Segunda-Feira,Presencial
+82,Vestuario,Santa Rosália,198.47,Sábado,E-commerce
+83,Varejo_Alimentar,General Carneiro,64.52,Sexta-Feira,Presencial
+84,Varejo_Alimentar,Wanel Ville,44.78,Sábado,Presencial
+85,Automotivo,Vila Hortência,746.77,Quarta-Feira,Presencial
+86,Automotivo,General Carneiro,1173.64,Terça-Feira,Presencial
+87,Construcao,Cerrado,2358.38,Terça-Feira,Presencial
+88,Construcao,Centro,644.75,Sexta-Feira,E-commerce
+89,Varejo_Alimentar,Wanel Ville,118.53,Sexta-Feira,Presencial
+90,Automotivo,General Carneiro,471.45,Sábado,Presencial
+91,Vestuario,Vila Hortência,222.06,Quinta-Feira,E-commerce
+92,Varejo_Alimentar,Wanel Ville,35.65,Quinta-Feira,E-commerce
+93,Automotivo,Centro,1023.42,Quarta-Feira,E-commerce
+94,Varejo_Alimentar,Éden,159.43,Quarta-Feira,Presencial
+95,Varejo_Alimentar,Wanel Ville,49.12,Sábado,E-commerce
+96,Construcao,Santa Rosália,627.53,Sábado,Presencial
+97,Construcao,Santa Rosália,1060.17,Terça-Feira,E-commerce
+98,Automotivo,Campolim,343.43,Quinta-Feira,E-commerce
+99,Automotivo,Trujillo,464.21,Sábado,E-commerce
+100,Automotivo,Vila Hortência,1194.56,Terça-Feira,E-commerce
+101,Varejo_Alimentar,Cerrado,74.04,Sexta-Feira,Presencial
+102,Automotivo,Cerrado,466.48,Quinta-Feira,Presencial
+103,Automotivo,General Carneiro,96.08,Segunda-Feira,Presencial
+104,Automotivo,Wanel Ville,1187.43,Sábado,E-commerce
+105,Construcao,Éden,2269.89,Sábado,Presencial
+106,Vestuario,General Carneiro,163.45,Sábado,Presencial
+107,Construcao,Wanel Ville,1332.63,Sábado,E-commerce
+108,Vestuario,General Carneiro,303.26,Sábado,E-commerce
+109,Construcao,Vila Hortência,1804.44,Sábado,E-commerce
+110,Varejo_Alimentar,Trujillo,175.74,Sexta-Feira,E-commerce
+111,Automotivo,Santa Rosália,951.81,Sábado,Presencial
+112,Construcao,Wanel Ville,1930.83,Terça-Feira,Presencial
+113,Varejo_Alimentar,Éden,164.75,Quinta-Feira,Presencial
+114,Varejo_Alimentar,Éden,107.56,Quinta-Feira,E-commerce
+115,Automotivo,Santa Rosália,609.56,Sexta-Feira,E-commerce
+116,Vestuario,Wanel Ville,283.79,Sábado,Presencial
+117,Varejo_Alimentar,Éden,61.60,Sábado,Presencial
+118,Vestuario,Wanel Ville,237.21,Sexta-Feira,Presencial
+119,Vestuario,General Carneiro,310.09,Sexta-Feira,Presencial
+120,Vestuario,Wanel Ville,148.62,Sexta-Feira,Presencial
+121,Construcao,Éden,598.85,Segunda-Feira,Presencial
+122,Varejo_Alimentar,Santa Rosália,20.02,Segunda-Feira,E-commerce
+123,Automotivo,Trujillo,719.76,Sexta-Feira,Presencial
+124,Construcao,Santa Rosália,673.22,Sexta-Feira,Presencial
+125,Varejo_Alimentar,Santa Rosália,169.26,Sexta-Feira,E-commerce
+126,Automotivo,Trujillo,916.63,Sábado,E-commerce
+127,Varejo_Alimentar,Cerrado,68.34,Sábado,Presencial
+128,Vestuario,Vila Helena,193.92,Sexta-Feira,Presencial
+129,Varejo_Alimentar,Vila Helena,109.48,Sábado,E-commerce
+130,Vestuario,Cerrado,148.44,Sábado,Presencial
+131,Varejo_Alimentar,Wanel Ville,140.12,Sexta-Feira,Presencial
+132,Construcao,Trujillo,2295.26,Sábado,Presencial
+133,Automotivo,Vila Hortência,772.21,Sábado,E-commerce
+134,Automotivo,Vila Hortência,884.95,Sábado,Presencial
+135,Vestuario,Vila Hortência,208.55,Sábado,Presencial
+136,Varejo_Alimentar,Trujillo,127.92,Domingo,Presencial
+137,Construcao,Éden,2190.95,Sexta-Feira,Presencial
+138,Construcao,Campolim,1860.80,Sábado,Presencial
+139,Automotivo,Wanel Ville,434.08,Sábado,Presencial
+140,Vestuario,Éden,341.81,Quarta-Feira,Presencial
+141,Automotivo,General Carneiro,955.23,Sexta-Feira,Presencial
+142,Construcao,Vila Hortência,1599.93,Sábado,Presencial
+143,Construcao,Santa Rosália,1346.61,Sexta-Feira,E-commerce
+144,Varejo_Alimentar,Vila Hortência,146.21,Sábado,E-commerce
+145,Construcao,Wanel Ville,942.74,Quinta-Feira,E-commerce
+146,Construcao,General Carneiro,1380.90,Segunda-Feira,Presencial
+147,Automotivo,Vila Hortência,228.12,Sábado,Presencial
+148,Vestuario,Campolim,143.40,Quinta-Feira,E-commerce
+149,Vestuario,Cerrado,289.62,Sábado,Presencial
+150,Construcao,Trujillo,1234.26,Sábado,E-commerce
+151,Varejo_Alimentar,Santa Rosália,57.97,Sábado,Presencial
+152,Construcao,Santa Rosália,1136.44,Terça-Feira,E-commerce
+153,Automotivo,Trujillo,865.22,Sábado,Presencial
+154,Construcao,Wanel Ville,1090.35,Sábado,Presencial
+155,Varejo_Alimentar,Éden,57.37,Sábado,Presencial
+156,Vestuario,Cerrado,207.48,Sábado,Presencial
+157,Construcao,Vila Hortência,2126.58,Sexta-Feira,Presencial
+158,Automotivo,Santa Rosália,209.46,Sábado,E-commerce
+159,Vestuario,Vila Helena,227.55,Sexta-Feira,Presencial
+160,Construcao,Cerrado,1814.86,Sexta-Feira,Presencial
+161,Vestuario,Trujillo,93.17,Sexta-Feira,Presencial
+162,Automotivo,Campolim,568.58,Quinta-Feira,Presencial
+163,Vestuario,Éden,277.84,Sexta-Feira,Presencial
+164,Vestuario,Wanel Ville,179.82,Sexta-Feira,Presencial
+165,Varejo_Alimentar,Wanel Ville,157.79,Sábado,Presencial
+166,Automotivo,Éden,108.70,Sábado,Presencial
+167,Automotivo,Cerrado,165.71,Sábado,Presencial
+168,Vestuario,Wanel Ville,248.13,Sábado,E-commerce
+169,Automotivo,Vila Hortência,970.79,Quinta-Feira,Presencial
+170,Automotivo,Wanel Ville,1070.39,Terça-Feira,E-commerce
+171,Automotivo,Éden,1181.11,Sábado,E-commerce
+172,Automotivo,Wanel Ville,728.56,Sábado,Presencial
+173,Automotivo,General Carneiro,932.30,Sexta-Feira,Presencial
+174,Construcao,Trujillo,245.15,Sexta-Feira,Presencial
+175,Automotivo,Centro,457.86,Sexta-Feira,Presencial
+176,Vestuario,Campolim,136.26,Sábado,E-commerce
+177,Vestuario,Vila Hortência,286.54,Sexta-Feira,Presencial
+178,Construcao,Wanel Ville,1856.35,Sábado,Presencial
+179,Varejo_Alimentar,Vila Hortência,97.85,Sexta-Feira,Presencial
+180,Automotivo,Trujillo,252.23,Terça-Feira,Presencial
+181,Vestuario,Cerrado,87.92,Domingo,E-commerce
+182,Vestuario,Centro,337.56,Sexta-Feira,Presencial
+183,Vestuario,Campolim,251.94,Sábado,Presencial
+184,Varejo_Alimentar,General Carneiro,50.87,Sábado,Presencial
+185,Varejo_Alimentar,Centro,29.03,Quarta-Feira,Presencial
+186,Automotivo,Vila Helena,193.64,Sábado,E-commerce
+187,Automotivo,Santa Rosália,443.85,Sábado,E-commerce
+188,Automotivo,Campolim,631.25,Sábado,Presencial
+189,Automotivo,General Carneiro,710.16,Sábado,Presencial
+190,Vestuario,Éden,282.30,Sexta-Feira,E-commerce
+191,Construcao,Centro,183.81,Sexta-Feira,E-commerce
+192,Automotivo,Wanel Ville,218.94,Sábado,Presencial
+193,Construcao,Santa Rosália,728.79,Sexta-Feira,E-commerce
+194,Vestuario,Éden,200.40,Quinta-Feira,E-commerce
+195,Automotivo,Vila Hortência,586.56,Quarta-Feira,Presencial
+196,Varejo_Alimentar,Trujillo,84.82,Sábado,E-commerce
+197,Varejo_Alimentar,General Carneiro,67.34,Sexta-Feira,Presencial
+198,Varejo_Alimentar,General Carneiro,94.81,Sábado,E-commerce
+199,Construcao,Wanel Ville,452.73,Sábado,Presencial
+200,Construcao,General Carneiro,2463.66,Sábado,E-commerce
+201,Construcao,Campolim,1717.61,Sábado,E-commerce
+202,Automotivo,Éden,342.34,Sábado,E-commerce
+203,Automotivo,Vila Hortência,612.48,Sábado,Presencial
+204,Automotivo,General Carneiro,1105.84,Quarta-Feira,E-commerce
+205,Automotivo,Vila Helena,828.16,Sexta-Feira,Presencial
+206,Varejo_Alimentar,Éden,49.57,Sábado,Presencial
+207,Varejo_Alimentar,Vila Helena,116.90,Sexta-Feira,E-commerce
+208,Vestuario,Santa Rosália,344.83,Sábado,Presencial
+209,Vestuario,Cerrado,276.27,Sábado,E-commerce
+210,Construcao,Trujillo,1631.39,Sexta-Feira,Presencial
+211,Varejo_Alimentar,Centro,104.12,Sábado,E-commerce
+212,Construcao,Vila Hortência,1328.01,Quarta-Feira,E-commerce
+213,Varejo_Alimentar,Santa Rosália,117.58,Sexta-Feira,Presencial
+214,Construcao,Santa Rosália,1220.20,Sábado,E-commerce
+215,Construcao,General Carneiro,2180.24,Domingo,E-commerce
+216,Varejo_Alimentar,General Carneiro,124.00,Segunda-Feira,Presencial
+217,Varejo_Alimentar,General Carneiro,71.23,Sábado,E-commerce
+218,Construcao,Cerrado,2030.66,Sábado,Presencial
+219,Construcao,Trujillo,529.37,Sábado,Presencial
+220,Automotivo,Trujillo,360.74,Sexta-Feira,E-commerce
+221,Construcao,Vila Hortência,291.85,Sábado,E-commerce
+222,Automotivo,General Carneiro,1075.02,Quinta-Feira,Presencial
+223,Vestuario,General Carneiro,53.10,Quinta-Feira,Presencial
+224,Varejo_Alimentar,Trujillo,15.76,Sábado,Presencial
+225,Vestuario,Campolim,156.75,Sexta-Feira,Presencial
+226,Construcao,Campolim,1303.99,Sexta-Feira,Presencial
+227,Construcao,Cerrado,288.57,Sexta-Feira,E-commerce
+228,Vestuario,Centro,191.07,Sexta-Feira,Presencial
+229,Varejo_Alimentar,Santa Rosália,125.75,Sexta-Feira,Presencial
+230,Construcao,Wanel Ville,166.99,Quarta-Feira,E-commerce
+231,Construcao,Trujillo,1087.08,Sexta-Feira,Presencial
+232,Automotivo,General Carneiro,311.23,Terça-Feira,E-commerce
+233,Vestuario,General Carneiro,238.94,Sábado,Presencial
+234,Varejo_Alimentar,Cerrado,128.59,Quarta-Feira,Presencial
+235,Construcao,General Carneiro,545.89,Sexta-Feira,E-commerce
+236,Automotivo,Wanel Ville,755.31,Sábado,E-commerce
+237,Automotivo,Cerrado,120.03,Sábado,Presencial
+238,Automotivo,Santa Rosália,239.33,Sexta-Feira,Presencial
+239,Construcao,Vila Helena,275.38,Sexta-Feira,E-commerce
+240,Construcao,Wanel Ville,594.38,Terça-Feira,E-commerce
+241,Automotivo,Vila Hortência,1194.26,Sábado,E-commerce
+242,Varejo_Alimentar,Campolim,121.34,Sábado,Presencial
+243,Automotivo,Campolim,951.25,Sexta-Feira,Presencial
+244,Vestuario,Trujillo,82.49,Domingo,Presencial
+245,Varejo_Alimentar,Vila Hortência,170.49,Sexta-Feira,Presencial
+246,Automotivo,Éden,943.86,Sexta-Feira,E-commerce
+247,Vestuario,Santa Rosália,195.93,Quinta-Feira,Presencial
+248,Automotivo,General Carneiro,895.57,Sábado,Presencial
+249,Vestuario,Centro,254.97,Segunda-Feira,Presencial
+250,Automotivo,Vila Helena,301.83,Sábado,Presencial
+251,Varejo_Alimentar,Santa Rosália,178.76,Sexta-Feira,E-commerce
+252,Construcao,Trujillo,997.78,Sábado,Presencial
+253,Varejo_Alimentar,Éden,175.96,Sábado,Presencial
+254,Vestuario,Wanel Ville,103.38,Sábado,E-commerce
+255,Construcao,Campolim,1236.20,Sexta-Feira,Presencial
+256,Automotivo,Vila Helena,582.08,Sábado,E-commerce
+257,Varejo_Alimentar,Cerrado,73.01,Domingo,Presencial
+258,Varejo_Alimentar,Campolim,117.10,Sexta-Feira,E-commerce
+259,Varejo_Alimentar,Centro,81.36,Terça-Feira,Presencial
+260,Varejo_Alimentar,Campolim,99.02,Terça-Feira,Presencial
+261,Varejo_Alimentar,Vila Hortência,54.55,Sexta-Feira,Presencial
+262,Varejo_Alimentar,Cerrado,127.68,Sábado,E-commerce
+263,Vestuario,Trujillo,289.91,Sexta-Feira,Presencial
+264,Construcao,Vila Hortência,445.00,Sexta-Feira,Presencial
+265,Automotivo,Wanel Ville,1019.87,Sábado,Presencial
+266,Automotivo,Campolim,1190.00,Quarta-Feira,E-commerce
+267,Construcao,Santa Rosália,1812.48,Sábado,Presencial
+268,Varejo_Alimentar,Santa Rosália,16.16,Segunda-Feira,Presencial
+269,Varejo_Alimentar,Vila Hortência,77.73,Sexta-Feira,Presencial
+270,Vestuario,Vila Hortência,68.64,Domingo,Presencial
+271,Vestuario,Cerrado,204.00,Segunda-Feira,Presencial
+272,Varejo_Alimentar,Trujillo,133.49,Sexta-Feira,E-commerce
+273,Automotivo,Wanel Ville,426.75,Sábado,Presencial
+274,Vestuario,Campolim,54.54,Segunda-Feira,Presencial
+275,Construcao,Wanel Ville,1674.10,Sábado,Presencial
+276,Automotivo,Wanel Ville,171.82,Sexta-Feira,E-commerce
+277,Construcao,Éden,812.60,Sábado,Presencial
+278,Construcao,Centro,880.93,Sábado,Presencial
+279,Varejo_Alimentar,General Carneiro,107.63,Domingo,Presencial
+280,Automotivo,Éden,303.47,Domingo,Presencial
+281,Construcao,Vila Helena,1283.32,Sexta-Feira,E-commerce
+282,Varejo_Alimentar,Campolim,121.59,Domingo,Presencial
+283,Varejo_Alimentar,Centro,18.42,Sexta-Feira,E-commerce
+284,Varejo_Alimentar,Centro,126.40,Segunda-Feira,E-commerce
+285,Automotivo,Centro,228.77,Sexta-Feira,Presencial
+286,Automotivo,Vila Hortência,1010.26,Sábado,Presencial
+287,Automotivo,Santa Rosália,140.66,Sexta-Feira,E-commerce
+288,Automotivo,Trujillo,679.82,Segunda-Feira,E-commerce
+289,Vestuario,Campolim,126.25,Sexta-Feira,Presencial
+290,Construcao,Vila Hortência,2480.59,Sexta-Feira,Presencial
+291,Varejo_Alimentar,Vila Hortência,81.86,Sábado,E-commerce
+292,Automotivo,Santa Rosália,309.31,Quinta-Feira,Presencial
+293,Automotivo,Wanel Ville,315.08,Segunda-Feira,Presencial
+294,Construcao,Campolim,1132.64,Sábado,Presencial
+295,Varejo_Alimentar,Santa Rosália,46.38,Sexta-Feira,E-commerce
+296,Vestuario,Éden,169.63,Segunda-Feira,E-commerce
+297,Automotivo,Trujillo,590.92,Sexta-Feira,E-commerce
+298,Automotivo,Centro,525.08,Sábado,Presencial
+299,Vestuario,Vila Hortência,328.13,Sábado,Presencial
+300,Vestuario,Cerrado,116.73,Sábado,E-commerce

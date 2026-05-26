@@ -1,0 +1,8 @@
+{
+  "name": "ycon-analise-dados-extensao",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Pipeline de análise descritiva de tendências de mercado e comportamento do consumidor em Sorocaba-SP",
+  "main": "index.js",
+  "author": "Ramon Bianco Gonçalves"
+}

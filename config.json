@@ -1,0 +1,15 @@
+{
+  "analytics_id": "ycon-market-trends-2026",
+  "geography": "Sorocaba - SP",
+  "partner": "Ycon Inteligência e Tecnologia",
+  "target_metrics": {
+    "calculate_ticket_medio": true,
+    "detect_sazonalidade": true,
+    "segmentation_by_sector": true
+  },
+  "academic_info": {
+    "student": "Ramon Bianco Gonçalves",
+    "ra": "202401194166",
+    "course": "Análise e Desenvolvimento de Sistemas"
+  }
+}
